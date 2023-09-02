@@ -17,4 +17,4 @@ Only drops and creates all tables. Loads sample data into the tables.
 Runs all PL/SQL code blocks.
 
 ### Script_Output.txt
-Outputs console logs from running PL_SQL_Code_Blocks.sql.
+Example output of console logs from running PL_SQL_Code_Blocks.sql.
